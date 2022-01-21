@@ -70,7 +70,7 @@
 
         <article class="test">
             <div>
-                <p> Chatwahl oder so </p>
+                <p> Chats </p>
             </div>
         </article>
 

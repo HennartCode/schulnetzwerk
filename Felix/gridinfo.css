@@ -41,6 +41,7 @@
 
 .test:nth-child(3) {
     grid-area: three;
+    background: whitesmoke;
 }
 
 .test:nth-child(4) {
