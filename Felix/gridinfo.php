@@ -69,8 +69,15 @@
         </article>
 
         <article class="test">
-            <div>
-                <p> Chats </p>
+            <div class="scrollmenu">
+                <a href="#person1">person1</a>
+                <a href="#person2">person2</a>
+                <a href="#person3">person3</a>
+                <a href="#person4">person4</a>
+                <a href="#person4">person4</a>
+                <a href="#person4">person4</a>
+                <a href="#person4">person4</a>
+                <a href="#person4">person4</a>
             </div>
         </article>
 
